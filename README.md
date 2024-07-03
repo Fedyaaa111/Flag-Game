@@ -1,1 +1,1 @@
-# Flag-Game
+# FlagGame
